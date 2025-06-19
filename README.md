@@ -12,6 +12,8 @@
 
 ---
 
+Veja o APP ONLINE link: https://rupturas-wlmrhploartgj9bp529dyo.streamlit.app/
+
 ## 🧠 Visão Geral
 
 Esta aplicação permite detectar produtos com **estoque disponível que não venderam no período esperado**, calculando a **perda de receita estimada** por oportunidades de venda não realizadas.
