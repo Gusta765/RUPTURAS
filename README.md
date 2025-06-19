@@ -73,7 +73,7 @@ Você pode visualizar um exemplo de cada um diretamente na interface da aplicaç
 ```
 
 🧾 Como rodar localmente
-
+```text
 # Clone o repositório
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 # Execute a aplicação
 streamlit run app.py
-
+```
 
 📌 To-Do Futuro
 
