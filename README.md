@@ -68,3 +68,38 @@ Você pode visualizar um exemplo de cada um diretamente na interface da aplicaç
 4. Comparar com dias sem venda para detectar ruptura
 5. Calcular unidades perdidas e valor da oportunidade perdida
 6. Gerar insights acionáveis com foco em vendas e exposição
+
+🧾 Como rodar localmente
+
+# Clone o repositório
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+
+# Crie e ative um ambiente virtual (opcional, mas recomendado)
+python -m venv venv
+source venv/bin/activate  # no Windows use `venv\Scripts\activate`
+
+# Instale as dependências
+pip install -r requirements.txt
+
+# Execute a aplicação
+streamlit run app.py
+
+
+📌 To-Do Futuro
+
+ Integração com banco de dados
+
+ Relatórios automáticos por e-mail
+
+ Integração com sistemas ERP
+
+ Trazer mais informações como: Data do último inventário realizado no produto, Data da última entrada do produto e Quantidade de estoque no impróprio
+
+🧑‍💻 Autor
+
+Desenvolvido por Gustavo Barbosa
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barbosa-868976236/) [![Email](https://img.shields.io/badge/Email-gustavobarbosa7744@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobarbosa7744@gmail.com)
