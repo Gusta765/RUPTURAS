@@ -70,6 +70,7 @@ Você pode visualizar um exemplo de cada um diretamente na interface da aplicaç
 4. Comparar com dias sem venda para detectar ruptura
 5. Calcular unidades perdidas e valor da oportunidade perdida
 6. Gerar insights acionáveis com foco em vendas e exposição
+```
 
 🧾 Como rodar localmente
 
